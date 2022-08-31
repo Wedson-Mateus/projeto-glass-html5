@@ -242,3 +242,16 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+
+video#filme-principal {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+video#filme-secundario {
+    display: block;
+    position: relative;
+    width: 100%;
+}
